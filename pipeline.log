@@ -1,0 +1,6 @@
+2026-03-16 23:20:49,626 - INFO - Starting Bronze Layer
+2026-03-16 23:20:49,626 - INFO - Reading file: premier_2023.csv
+2026-03-16 23:20:49,641 - INFO - Reading file: premier_2024.csv
+2026-03-16 23:20:49,655 - INFO - Reading file: premier_2025.csv
+2026-03-16 23:20:49,667 - INFO - Reading file: premier_2026.csv
+2026-03-16 23:20:49,819 - INFO - Bronze layer created successfully
