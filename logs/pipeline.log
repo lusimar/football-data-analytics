@@ -23,3 +23,25 @@
 2026-03-17 11:06:44,899 - INFO - Starting Silver Layer
 2026-03-17 11:06:44,913 - INFO - Dataset Silver layer loaded successfully
 2026-03-17 11:06:44,925 - INFO - Silver layer created successfully
+2026-03-17 15:30:49,504 - INFO - Starting Bronze Layer
+2026-03-17 15:30:49,504 - INFO - Reading file: premier_2023.csv
+2026-03-17 15:30:49,509 - INFO - Reading file: premier_2024.csv
+2026-03-17 15:30:49,515 - INFO - Reading file: premier_2025.csv
+2026-03-17 15:30:49,521 - INFO - Reading file: premier_2026.csv
+2026-03-17 15:30:49,611 - INFO - Bronze layer created successfully
+2026-03-17 15:30:49,611 - INFO - Starting Silver Layer
+2026-03-17 15:30:49,626 - INFO - Dataset Silver layer loaded successfully
+2026-03-17 15:30:49,641 - INFO - Silver layer created successfully
+2026-03-17 15:30:49,641 - INFO - Starting Gold Layer
+2026-03-17 15:30:49,661 - ERROR - Error in Gold Layer: name 'avg_df' is not defined
+2026-03-17 15:32:43,080 - INFO - Starting Bronze Layer
+2026-03-17 15:32:43,080 - INFO - Reading file: premier_2023.csv
+2026-03-17 15:32:43,086 - INFO - Reading file: premier_2024.csv
+2026-03-17 15:32:43,091 - INFO - Reading file: premier_2025.csv
+2026-03-17 15:32:43,101 - INFO - Reading file: premier_2026.csv
+2026-03-17 15:32:43,211 - INFO - Bronze layer created successfully
+2026-03-17 15:32:43,212 - INFO - Starting Silver Layer
+2026-03-17 15:32:43,226 - INFO - Dataset Silver layer loaded successfully
+2026-03-17 15:32:43,232 - INFO - Silver layer created successfully
+2026-03-17 15:32:43,233 - INFO - Starting Gold Layer
+2026-03-17 15:32:43,245 - INFO - Gold layer created successfully
