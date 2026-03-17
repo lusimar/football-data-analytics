@@ -6,3 +6,20 @@
 2026-03-16 23:25:45,087 - INFO - Reading file: premier_2025.csv
 2026-03-16 23:25:45,109 - INFO - Reading file: premier_2026.csv
 2026-03-16 23:25:45,367 - INFO - Bronze layer created successfully
+2026-03-17 11:02:02,296 - INFO - Starting Bronze Layer
+2026-03-17 11:02:02,296 - INFO - Reading file: premier_2023.csv
+2026-03-17 11:02:02,312 - INFO - Reading file: premier_2024.csv
+2026-03-17 11:02:02,318 - INFO - Reading file: premier_2025.csv
+2026-03-17 11:02:02,326 - INFO - Reading file: premier_2026.csv
+2026-03-17 11:02:02,414 - INFO - Bronze layer created successfully
+2026-03-17 11:02:02,416 - INFO - Starting Silver Layer
+2026-03-17 11:02:02,418 - ERROR - Error in Silver Layer: [Errno 13] Permission denied: 'data/bronze'
+2026-03-17 11:06:44,796 - INFO - Starting Bronze Layer
+2026-03-17 11:06:44,796 - INFO - Reading file: premier_2023.csv
+2026-03-17 11:06:44,801 - INFO - Reading file: premier_2024.csv
+2026-03-17 11:06:44,807 - INFO - Reading file: premier_2025.csv
+2026-03-17 11:06:44,814 - INFO - Reading file: premier_2026.csv
+2026-03-17 11:06:44,899 - INFO - Bronze layer created successfully
+2026-03-17 11:06:44,899 - INFO - Starting Silver Layer
+2026-03-17 11:06:44,913 - INFO - Dataset Silver layer loaded successfully
+2026-03-17 11:06:44,925 - INFO - Silver layer created successfully
